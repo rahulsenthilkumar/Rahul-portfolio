@@ -1,0 +1,43 @@
+ body {
+    background-color:#d0e8f2;}
+h3{
+	color:#0e49b5;}
+
+
+ h3:hover{
+   color: red;
+
+ } 
+
+
+h1{
+	color:#0e49b5;}
+
+h1:hover{
+  color:red;
+}
+
+
+
+hr {
+  border-style: none;
+  border-top-style:dotted; 
+  border-color:cornflowerblue;
+  border-width: 8px;
+  width:25%;}
+  
+#btn{
+    color:#fa26a0;
+    font-size: 20px;
+    width:80%;
+    margin: 40px auto  60px;
+  }
+  
+#btn:hover{
+    color:#0e49b5;
+  }
+  
+  
+  
+
+
